@@ -1,0 +1,17 @@
+body {background-color: cyan;}
+nav ul li {
+    display: inline;
+}
+
+  footer {
+	  background:#b5fbbd;
+		position:fixed;
+		bottom:0px;
+		width:100%;	
+		text-align:center;
+	}
+	
+	img {
+    width: 200px;
+    height: 200px;
+}
